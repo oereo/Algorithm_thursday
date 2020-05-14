@@ -10,7 +10,7 @@ for A+
 * 두번째 push 부터는  git clone 를 수행하지않고, git pull 만 수행합니다.
 ```console
 
-$ git clone https://github.com/oereo/Algorithm_for_CodingTest.git
+$ git clone https://github.com/oereo/Algorithm_thursday.git
 $ git pull 
 $ cd Algorithm_thursday
 $ git init
