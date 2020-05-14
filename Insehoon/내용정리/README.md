@@ -1,9 +1,9 @@
 # Algorithm time Complexity
 
-##binary search
+## binary search
 T(n) = logn
 
-##merge sort
+## merge sort
 T(n) = divide complexity + conquer complexity + combine
       = ? + T(n/2) + T(n/2) + combine
       = ? + 2*T(n/2) + n/2 + n/2 -1
@@ -17,7 +17,7 @@ T(n) = divide complexity + conquer complexity + combine
       = nlog(n)
 
 
-##quick sort
+## quick sort
 * Best-case 
 T(n) = Divide + Conq. +Combine
       = (n-1) + T(n/2) + T(n/2) + 0 
