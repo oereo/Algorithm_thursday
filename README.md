@@ -1,4 +1,4 @@
-# Algorithm_for_CodingTest
+# Algorithm_Introduce
 
 for Kimdaewon Professor session
 for A+
@@ -20,11 +20,11 @@ $ git push origin master
 ```
 
 * 알고리즘의 답 위에 주석으로 문제까지 적어주면 감사할게요!
-
+* 무조건 시간복잡도까지 계산을 해서 올려주시면 감사할게요!!
 ## 구조 
 
 * 크게 백준,프로그래머스 폴더와 자료정리 MD파일로 나누어 질 예정입니다.
-* 자신의 이름폴더안에 알고리즘을 분류별로 폴더를 만들어서 cpp파일로 넣어주세요!
+* 자신의 이름폴더안에 알고리즘을 분류별로 폴더를 만들어서 cpp파일 또는 .py로 넣어주세요!
 
 ## 방식
 
